@@ -1,0 +1,22 @@
+{
+  "name": "OFFICIAL ZUNO",
+  "symbol": "ZUNO",
+  "description": "Be the First. Be ZUNO",
+  "image": "https://raw.githubusercontent.com/companyzuno/zuno/main/logo.png",
+  "external_url": "https://zuno.guru",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Token"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/companyzuno/zuno/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
