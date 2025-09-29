@@ -63,7 +63,7 @@ For detailed logs, verifications, and contract hashes, visit our
 ## 🌍 Community & Links
 
 - 🌐 [Website](https://zuno.guru)  
-- 🐦 [X (Twitter)](https://x.com/)  
+- 🐦 [X (Twitter)](https://x.com/zuno_guru)  
 - 💬 [Telegram](https://t.me/)  
 - 💻 [GitHub](https://github.com/companyzuno/zuno)  
 
