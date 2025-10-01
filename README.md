@@ -1,9 +1,22 @@
 # 🌌 ZUNO Token
 
-Welcome to the official repository of **ZUNO ($ZUNO)**, the next-generation Solana-based ecosystem token.  
-ZUNO is designed for **community engagement, staking rewards, and ecosystem growth**.  
+Welcome to the official repository of ZUNO ($ZUNO), a Solana-based community token.  
 
-⚠️ **Disclaimer**: ZUNO is not an investment contract, security, or financial product. It is a **utility token** intended for ecosystem participation only.  
+ZUNO is not here to reinvent the wheel or promise you the “next-generation” of anything.  
+It’s a meme token — but a meme token you can actually trust:  
+
+- ✅ Fixed supply (no mint authority)  
+- ✅ No freeze authority  
+- ✅ Immutable on-chain metadata  
+- ✅ Transparent vesting contracts  
+
+And that’s it.  
+Sometimes a token doesn’t need to “build an ecosystem” or “change the world.”  
+Sometimes, the buyers themselves are the final beneficiaries — and it’s up to the community  
+to decide whether a token grows or stays just a meme.  
+
+⚠️ Disclaimer: ZUNO is not an investment contract, security, or financial product.  
+It is a simple utility/community token meant for staking rewards and participation.
 
 ---
 
