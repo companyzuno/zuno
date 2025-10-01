@@ -17,32 +17,28 @@ ZUNO is designed for **community engagement, staking rewards, and ecosystem grow
 - **Transparency**: All vesting contracts and SNS accounts are published below.  
 
 ---
-
 ## 📊 Token Allocation & Distribution
 
-| Section              | % of Total Supply | % Unlock at TGE | Cliff       | Unlock Duration | Frequency | Notes                                                    | SNS                                                                                       | Vesting Contract                                                                 |
-|-----------------------|-------------------|-----------------|-------------|-----------------|-----------|----------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| Liquidity Pool (LP)  | 20%               | 0%              | 24 months   | –               | One-time  | LP tokens fully locked for 24 months, unlocked at once   | [lp_tokens.nexuspoint.sol](https://solscan.io/account/EXAMPLE1)                           | [Sample Solana Address](https://solscan.io/account/EXAMPLE2)                     |
-| Advertisement        | 10%               | 0%              | 0           | 12 months       | Monthly   | Linear monthly unlock for campaign funding               | [treasury_adv.nexuspoint.sol](https://solscan.io/account/EXAMPLE3)                        | [Sample Solana Address](https://solscan.io/account/EXAMPLE4)                     |
-| Creator & ZunoCo 1   | 22.50%            | 0%              | 0           | 24 months       | Monthly   | Linear monthly unlock for team/management                | [czc1.nexuspoint.sol](https://solscan.io/account/EXAMPLE5)                                | [Sample Solana Address](https://solscan.io/account/EXAMPLE6)                     |
-| Creator & ZunoCo 2   | 22.50%            | 0%              | 0           | 24 months       | Monthly   | Linear monthly unlock for team/management                | [czc2.nexuspoint.sol](https://solscan.io/account/EXAMPLE7)                                | [Sample Solana Address](https://solscan.io/account/EXAMPLE8)                     |
-| Creator & ZunoCo 3   | 7.50%             | 0%              | 0           | 24 months       | Quarterly   | Linear quarterly unlock for team/management                | [czc3.nexuspoint.sol](https://solscan.io/account/BixWz3vsKcCoyi45BmYz8yyoFgCJDepxUFX249m5tiFq) | [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/f3rSPQKCwWtH4uN5qa7pMUchfi1xsijabmCJHiEbpim) |
-| Developments         | 10%               | 0%              | 0           | 12 months       | Monthly   | Linear monthly unlock to align with project milestones   | [dev.nexuspoint.sol](https://solscan.io/account/EXAMPLE11)                               | [Sample Solana Address](https://solscan.io/account/EXAMPLE12)                    |
-| Service Providers    | 0.50%             | 0%              | 0           | 12 months       | Monthly   | Linear monthly unlock for external services              | [service_provider.nexuspoint.sol](https://solscan.io/account/EXAMPLE13)                   | [Sample Solana Address](https://solscan.io/account/EXAMPLE14)                    |
-| Staking Rewards      | 7%                | 0%              | 0           | 24 months       | Monthly   | Rewards distributed to stakers proportionally            | [staking_rewards.nexuspoint.sol](https://solscan.io/account/EXAMPLE15)                    | [Sample Solana Address](https://solscan.io/account/EXAMPLE16)                    |
-
+| Section              | % of Total Supply | % Unlock at TGE | Cliff       | Unlock Duration | Frequency   | Notes                                                    | SNS                                                                                       | Vesting Contract                                                                 |
+|-----------------------|-------------------|-----------------|-------------|-----------------|-------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Liquidity Pool (LP)  | 20%               | 0%              | 24 months   | –               | One-time    | LP tokens fully locked for 24 months, unlocked at once   | [lp_tokens.nexuspoint.sol](https://solscan.io/account/EXAMPLE1)                           | [Sample Solana Address](https://solscan.io/account/EXAMPLE2)                     |
+| Advertisement        | 10%               | 0%              | 0           | 12 months       | Monthly     | Linear monthly unlock for campaign funding               | [Advertisement Treasury](https://solscan.io/account/8X9qqThz75JwXKjZ7qnQ75PAtgZVAvLPj8PgMcHHkuaJ) | [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/6yghMEMixLCWS84CBbxVLStd24BPmtmj5p16hqXiT7BL) |
+| Creator & ZunoCo 1   | 22.50%            | 0%              | 0           | 24 months       | Monthly     | Linear monthly unlock for team/management                | [czc1.nexuspoint.sol](https://solscan.io/account/8tBqpnBMBjhNyuubmW5FZLYq8u2ohn2kTPVRjHM3nJ8c) | [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/F8i6JxUPR7Jyuvfhftmx9xG4ZMUTCZKqT8XU9qnQLWCV) |
+| Creator & ZunoCo 2   | 22.50%            | 0%              | 0           | 24 months       | Monthly     | Linear monthly unlock for team/management                | [czc2.nexuspoint.sol](https://solscan.io/account/JCXxpkH8M2BXop9nUQ2rdhoHJQctk5wSHQTDk22AE64g) | [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/3uK1TjtgVseNFr7dfj6JzcZdoLH2zzuy3tSevN7s9NWx) |
+| Creator & ZunoCo 3   | 7.50%             | 0%              | 0           | 24 months       | Quarterly   | Linear quarterly unlock for team/management              | [czc3.nexuspoint.sol](https://solscan.io/account/BixWz3vsKcCoyi45BmYz8yyoFgCJDepxUFX249m5tiFq) | [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/f3rSPQKCwWtH4uN5qa7pMUchfi1xsijabmCJHiEbpim) |
+| Developments         | 10%               | 0%              | 0           | 12 months       | Monthly     | Linear monthly unlock to align with project milestones   | [dev.nexuspoint.sol](https://solscan.io/account/6p346vqTDdFxncz2QN4cfh5MCZ93PZYz8oo1i9cQzvi3) | [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/zJ9JWUfwNVQ61QxrktYJsrx5dacP9Xv9AbWH667PKDR) |
+| Service Providers    | 0.50%             | 0%              | 0           | 12 months       | Monthly     | Linear monthly unlock for external services              | [sp.nexuspoint.sol](https://solscan.io/account/7u4PWjGqKzYKjPurEeTgGe9XipBaVNKp8eSqHaHfjRxu) | [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/GRwD7ssWtrXqR4c6wd57Q7Z8C3USPRH6QHSmsQMMWHGZ) |
+| Staking Rewards      | 7%                | 0%              | 0           | 24 months       | Monthly     | Rewards distributed to stakers proportionally            | [staking_rewards.nexuspoint.sol](https://solscan.io/account/EXAMPLE15)                    | [Sample Solana Address](https://solscan.io/account/EXAMPLE16)                    |
 
 ---
-
 ## 🏦 Staking
 
 - Staking rewards represent **7% of total supply**, released linearly over 24 months.  
-- Rewards are distributed to stakers via **[Streamflow Finance](https://app.streamflow.finance/)** smart contracts.  
-- Example staking pool (sample):  
-  [6-Month Pool](https://app.streamflow.finance/staking/solana/mainnet/Cja9f8JFS6sTgBqSRZGBrA2HDbUj4MZUGdtRYruKTeJp)  
+- Rewards will be distributed to stakers via **Streamflow Finance** smart contracts.  
 
-⚠️ **Note:** The current links are **sample placeholders**.  
-Once actual Solana vesting/staking contracts are deployed, they will replace these placeholders.
+⚠️ **Note:**  
+The staking contract is **not yet deployed**.  
+Once the official staking pool goes live on Streamflow, the link and contract address will be published here.
 
 ---
 
@@ -64,7 +60,6 @@ For detailed logs, verifications, and contract hashes, visit our
 
 - 🌐 [Website](https://zuno.guru)  
 - 🐦 [X (Twitter)](https://x.com/zuno_guru)  
-- 💬 [Telegram](https://t.me/)  
 - 💻 [GitHub](https://github.com/companyzuno/zuno)  
 
 ---
