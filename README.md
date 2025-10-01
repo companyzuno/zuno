@@ -13,7 +13,8 @@ ZUNO is designed for **community engagement, staking rewards, and ecosystem grow
 - **Ticker**: $ZUNO  
 - **Total Supply**: 10,000,000,000 $ZUNO  
 - **Mint Authority**: ❌ Revoked (no further minting possible)  
-- **Freeze Authority**: ❌ Disabled (tokens cannot be frozen)  
+- **Freeze Authority**: ❌ Disabled (tokens cannot be frozen)
+- **Metadata: 🔒 Immutable (permanently locked, cannot be changed)  
 - **Transparency**: All vesting contracts and SNS accounts are published below.  
 
 ---
@@ -45,7 +46,8 @@ Once the official staking pool goes live on Streamflow, the link and contract ad
 ## 🔒 Security & Transparency
 
 - ✅ **No Mint Authority** – Supply is fixed.  
-- ✅ **No Freeze Authority** – Tokens cannot be frozen.  
+- ✅ **No Freeze Authority** – Tokens cannot be frozen.
+- ✅ Immutable Metadata – Token metadata has been permanently locked on-chain (cannot be changed).  
 - ✅ **Vesting contracts** are publicly visible on **Solana Scan** and **Streamflow Finance**.  
 - ✅ **Domain & SNS ownership**:  
   - [zuno.guru](https://zuno.guru) (Official domain)  
