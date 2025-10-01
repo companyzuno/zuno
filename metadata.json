@@ -2,7 +2,7 @@
   "name": "OFFICIAL ZUNO",
   "symbol": "ZUNO",
   "description": "Be the First. Be ZUNO",
-  "image": "https://raw.githubusercontent.com/companyzuno/zuno/main/logo.png",
+  "image": "ipfs://bafkreif52dlkjiuxoar6hnnjxemp57zw4kuyax5wwjz6dxwv52gm426o3u",
   "external_url": "https://zuno.guru",
   "attributes": [
     {
@@ -13,7 +13,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/companyzuno/zuno/main/logo.png",
+        "uri": "ipfs://bafkreif52dlkjiuxoar6hnnjxemp57zw4kuyax5wwjz6dxwv52gm426o3u",
         "type": "image/png"
       }
     ],
