@@ -64,7 +64,7 @@ Once the official staking pool goes live on Streamflow, the link and contract ad
 - ✅ **Vesting contracts** are publicly visible on **Solana Scan** and **Streamflow Finance**.  
 - ✅ **Domain & SNS ownership**:  
   - [zuno.guru](https://zuno.guru) (Official domain)  
-  - `nexuspoint.sol` (Official SNS identity)  
+  - [zuno_guru.sol](https://www.sns.id/domain/zuno_guru) (Official SNS identity)  
 
 For detailed logs, verifications, and contract hashes, visit our  
 👉 [GitHub Security & Logging Section](https://github.com/companyzuno/zuno).
