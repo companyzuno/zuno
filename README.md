@@ -87,9 +87,10 @@ All reserves are verifiable on-chain under the SNS identity
 
 - 🌐 Website — [zuno.guru](https://zuno.guru)  
 - 🐦 Twitter — [x.com/zuno_guru](https://x.com/zuno_guru)  
-- 💬 Telegram — [t.me/zuno_guru](https://t.me/zuno_guru)  
+- 💬 Telegram — [t.me/zuno_guru](https://t.me/zuno_guru)
+- 🎵 TikTok — [tiktok.com/@zunoguru](https://www.tiktok.com/@zunoguru)
 - 💻 GitHub — [companyzuno/zuno](https://github.com/companyzuno/zuno)  
-- 💧 Meteora Pool — [Official ZUNO Pool](https://www.meteora.ag/dlmm/HTvjzsfX3yU6BUodCjZ5vZkUrAxMDTrBs3CJaq43ashR)
+- 💧 Meteora Pool — [Official ZUNO Pool](https://www.meteora.ag/dlmm/7jfWod7G5YTFuhtvtKeKgRWipoMhS2LpSMAS1fVyo6WM)
 
 ---
 
