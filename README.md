@@ -45,7 +45,7 @@ It’s a meme token — but one with full transparency, fixed supply, and verifi
 | **Creator & ZunoCo 3** | 7.5% | 0% | 0 | 24 months | Quarterly | Unlock for project contributors & advisors. | [czc3.zuno_guru.sol](https://solscan.io/account/BixWz3vsKcCoyi45BmYz8yyoFgCJDepxUFX249m5tiFq) | [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/f3rSPQKCwWtH4uN5qa7pMUchfi1xsijabmCJHiEbpim) |
 | **Developments** | 10% | 0% | 0 | 12 months | Monthly | Ecosystem & infrastructure development. | [dev4.zuno_guru.sol](https://solscan.io/account/6p346vqTDdFxncz2QN4cfh5MCZ93PZYz8oo1i9cQzvi3) | [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/zJ9JWUfwNVQ61QxrktYJsrx5dacP9Xv9AbWH667PKDR) |
 | **Service Providers** | 0.5% | 0% | 0 | 12 months | Monthly | Payments to auditors, legal, and services. | [sp.zuno_guru.sol](https://solscan.io/account/7u4PWjGqKzYKjPurEeTgGe9XipBaVNKp8eSqHaHfjRxu) | [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/GRwD7ssWtrXqR4c6wd57Q7Z8C3USPRH6QHSmsQMMWHGZ) |
-| **Staking Rewards** | 7% | 0% | 0 | 24 months | Monthly | Rewards for staking participants via Streamflow. | [staking_rewards.zuno_guru.sol](https://solscan.io/account/EXAMPLE_STAKE) | — |
+| **Staking Rewards** | 7% | 0% | 0 | 24 months | Monthly | Rewards for staking participants via Streamflow. | [staking_rewards.zuno_guru.sol](https://solscan.io/account/EXAMPLE_STAKE) | [Streamflow Contract](https://app.streamflow.finance/staking/solana/mainnet/DhsyDTQAhPZbUWAff92FZzUctGzWBrwzrqpvsC6ipb5c) |
 
 ---
 
