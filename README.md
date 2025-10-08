@@ -61,10 +61,6 @@ third-party scanners that rely on a unified “LP token supply / LP locked %” 
 **0% or N/A** for LP lock — this is **expected for DLMM pools** and does not imply
 unlocked liquidity.
 
-If applicable, our DLMM position NFTs are held in a **multisig** for custody:
-- Multisig: `YOUR_MULTISIG_ADDRESS_HERE` (replace if you use one)
-- Any edits/deposits/withdrawals will be published with on-chain tx links.
-
 💧 Liquidity in ZUNO is multi-layered:  
 - **7% active** — launched on Meteora DEX (live trading pool).  
 - **10% reserve** — 1B $ZUNO locked, unlocking quarterly for 24 months.  
