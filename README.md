@@ -47,9 +47,23 @@ It’s a meme token — but one with full transparency, fixed supply, and verifi
 | **Service Providers** | 0.5% | 0% | 0 | 12 months | Monthly | Payments to auditors, legal, and services. | [sp.zuno_guru.sol](https://solscan.io/account/7u4PWjGqKzYKjPurEeTgGe9XipBaVNKp8eSqHaHfjRxu) | [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/GRwD7ssWtrXqR4c6wd57Q7Z8C3USPRH6QHSmsQMMWHGZ) |
 | **Staking Rewards** | 7% | 0% | 0 | 24 months | Monthly | Rewards for staking participants via Streamflow. | [staking_rewards.zuno_guru.sol](https://solscan.io/account/EXAMPLE_STAKE) | [Streamflow Contract](https://app.streamflow.finance/staking/solana/mainnet/DhsyDTQAhPZbUWAff92FZzUctGzWBrwzrqpvsC6ipb5c) |
 
+
+[^dlmm]: LP model is **Meteora DLMM** (per-bin **NFT** positions). LP lock % on scanners may appear **N/A/0%** by design.
 ---
 
 ## 🏦 Liquidity Structure
+
+### ℹ️ DLMM LP Token Model (Meteora)
+
+Our liquidity pool uses **Meteora DLMM**, which **does not issue a single LP token**.  
+Each liquidity position is an **NFT** spanning specific price bins. Because of this,
+third-party scanners that rely on a unified “LP token supply / LP locked %” may show
+**0% or N/A** for LP lock — this is **expected for DLMM pools** and does not imply
+unlocked liquidity.
+
+If applicable, our DLMM position NFTs are held in a **multisig** for custody:
+- Multisig: `YOUR_MULTISIG_ADDRESS_HERE` (replace if you use one)
+- Any edits/deposits/withdrawals will be published with on-chain tx links.
 
 💧 Liquidity in ZUNO is multi-layered:  
 - **7% active** — launched on Meteora DEX (live trading pool).  
