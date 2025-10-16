@@ -48,6 +48,8 @@ It’s a meme token — but one with full transparency, fixed supply, and verifi
 | **Staking Rewards** | 7% | 0% | 0 | 24 months | Monthly | Rewards for staking participants via Streamflow. | [staking_rewards.zuno_guru.sol](https://solscan.io/account/EXAMPLE_STAKE) | [Streamflow Contract](https://app.streamflow.finance/staking/solana/mainnet/DhsyDTQAhPZbUWAff92FZzUctGzWBrwzrqpvsC6ipb5c) |
 
 
+- 🌐 StreamFlow Contracts — [StreamFlow](https://app.streamflow.finance/project-dashboard/solana/mainnet/G1VhWSAhYXRRzokGqxs4aQ8u5DSuP69ki2bN7hnapjzZ)  
+
 [^dlmm]: LP model is **Meteora DLMM** (per-bin **NFT** positions). LP lock % on scanners may appear **N/A/0%** by design.
 ---
 
