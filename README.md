@@ -17,6 +17,15 @@ It’s a meme token — but one with full transparency, fixed supply, and verifi
 
 ---
 
+## 🔍 Audit
+
+- **Auditor:** QuillAudits (Quillhash)  
+- **Date:** 2025-10-22  
+- **Report (PDF):** https://github.com/companyzuno/zuno/QuillAudits.pdf  
+- **Mirror (GitHub):** https://github.com/Quillhash/QuillAudit_Reports/blob/master/Zuno%20SPL%20Token%20Audit%20report%20-%20QuillAudits.pdf
+
+---
+
 ## 📜 Overview
 
 | Parameter | Value |
@@ -89,7 +98,7 @@ All reserves are verifiable on-chain under the SNS identity
 | Freeze Authority | Disabled ✅ |
 | Metadata | Immutable ✅ |
 | Token Source | Public on GitHub ✅ |
-| Audits | In progress 🔍 |
+| Audit  |  [QuillAudit](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Zuno%20SPL%20Token%20Audit%20report%20-%20QuillAudits.pdf) ✅ |
 | SNS | [zuno_guru.sol](https://www.sns.id/domain/zuno_guru) |
 | Website | [https://zuno.guru](https://zuno.guru) |
 
