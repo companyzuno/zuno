@@ -112,8 +112,8 @@ All reserves are verifiable on-chain under the SNS identity
 - 💻 GitHub — [companyzuno/zuno](https://github.com/companyzuno/zuno)  
 - 💧 Meteora Pool — [Official ZUNO Pool](https://www.meteora.ag/dlmm/7jfWod7G5YTFuhtvtKeKgRWipoMhS2LpSMAS1fVyo6WM)
 - 💧 Jupiter Swap — [Official ZUNO Swap_Page](https://jup.ag/swap?sell=So11111111111111111111111111111111111111112&buy=G1VhWSAhYXRRzokGqxs4aQ8u5DSuP69ki2bN7hnapjzZ)
-- 📈 CoinMarketCap — https://coinmarketcap.com/currencies/official-zuno/
-- 🦎 CoinGecko — https://www.coingecko.com/en/coins/official-zuno
+- 📈 CoinMarketCap — [Official CMC_Page](https://coinmarketcap.com/currencies/official-zuno/)
+- 🦎 CoinGecko — [Official CG_Page](https://www.coingecko.com/en/coins/official-zuno)
 
 ---
 
