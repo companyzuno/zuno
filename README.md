@@ -17,12 +17,16 @@ It’s a meme token — but one with full transparency, fixed supply, and verifi
 
 ---
 
-## 🔍 Audit
+## 🔍 Audits
 
-- **Auditor:** QuillAudits (Quillhash)  
-- **Date:** 2025-10-22  
-- **Report (PDF):** https://github.com/companyzuno/zuno/QuillAudits.pdf  
-- **Mirror (GitHub):** https://github.com/Quillhash/QuillAudit_Reports/blob/25009b67dc5425f0c2fe9e1163ee64f7f6a96f5f/Zuno%20SPL%20Token%20Audit%20report%20-%20QuillAudits.pdf
+- **Auditor #1:** QuillAudits (Quillhash)  
+  - **Date:** 2025-10-22  
+  - **Report (PDF):** https://github.com/companyzuno/zuno/blob/main/QuillAudits.pdf  
+  - **Mirror (GitHub):** https://github.com/Quillhash/QuillAudit_Reports/blob/25009b67dc5425f0c2fe9e1163ee64f7f6a96f5f/Zuno%20SPL%20Token%20Audit%20report%20-%20QuillAudits.pdf  
+
+- **Auditor #2:** Cyberscope  
+  - **Audit Page:** https://www.cyberscope.io/audits/zuno  
+  - **CMC Security Badge:** https://coinmarketcap.com/currencies/official-zuno/
 
 ---
 
@@ -44,13 +48,10 @@ It’s a meme token — but one with full transparency, fixed supply, and verifi
 
 ## 🔐 Solana Domain Verification
 
-The ownership of the domain zuno.guru has been cryptographically verified using a signed message.
+The ownership of the domain **zuno.guru** has been cryptographically verified using a signed message.
 
-Verification file:
-https://zuno.guru/.well-known/solana/domain.json
-
-Verified owner:
-6p346vqTDdFxncz2QN4cfh5MCZ93PZYz8oo1i9cQzvi3
+- **Verification file:** https://zuno.guru/.well-known/solana/domain.json  
+- **Verified owner:** `6p346vqTDdFxncz2QN4cfh5MCZ93PZYz8oo1i9cQzvi3`
 
 
 ---
@@ -61,14 +62,15 @@ Verified owner:
 |----------|------------------|----------------|--------|------------------|------------|--------|------|------------------|
 | **Liquidity (Active)** | 7% | 100% | 0 | – | Instant | Added at launch on Meteora DEX for initial liquidity depth. | [liquidity.zuno_guru.sol](https://solscan.io/account/HTvjzsfX3yU6BUodCjZ5vZkUrAxMDTrBs3CJaq43ashR) | — |
 | **Liquidity Reserve (Locked)** | 10% | 0% | 0 | 24 months | Quarterly | 1B $ZUNO locked in reserve wallet, released quarterly to stabilize liquidity. | [reserve.zuno_guru.sol](https://solscan.io/account/EZdakQv1REa9MteMvNn1dhMrgsYGqwfs53NJrtpMC731) | [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/4D87Yj1dXHoxXXxLPDfuXMngypCuYBNipD8AEt8TWLrV) |
-| **Liquidity Management Wallet** | 3% | 100% | 0 | – | Unlocked | 300M $ZUNO for active liquidity balancing and market depth optimization. | [reserve_mgmt.zuno_guru.sol](https://solscan.io/account/EXAMPLE_MGMT) | — |
+| **Liquidity Management Wallet** | 3% | 100% | 0 | – | Unlocked | 300M $ZUNO for active liquidity balancing and market depth optimization. | TBA | — |
 | **Advertisement Treasury** | 10% | 0% | 0 | 12 months | Monthly | Linear unlock for marketing and campaigns. | [adv_reasury.zuno_guru.sol](https://solscan.io/account/8X9qqThz75JwXKjZ7qnQ75PAtgZVAvLPj8PgMcHHkuaJ) | [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/6yghMEMixLCWS84CBbxVLStd24BPmtmj5p16hqXiT7BL) |
 | **Creator & ZunoCo 1** | 22.5% | 0% | 0 | 24 months | Monthly | Linear monthly unlock for founders & ops. | [czc1.zuno_guru.sol](https://solscan.io/account/8tBqpnBMBjhNyuubmW5FZLYq8u2ohn2kTPVRjHM3nJ8c) | [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/F8i6JxUPR7Jyuvfhftmx9xG4ZMUTCZKqT8XU9qnQLWCV) |
 | **Creator & ZunoCo 2** | 22.5% | 0% | 0 | 24 months | Monthly | Linear monthly unlock for strategic team. | [czc2.zuno_guru.sol](https://solscan.io/account/JCXxpkH8M2BXop9nUQ2rdhoHJQctk5wSHQTDk22AE64g) | [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/3uK1TjtgVseNFr7dfj6JzcZdoLH2zzuy3tSevN7s9NWx) |
 | **Creator & ZunoCo 3** | 7.5% | 0% | 0 | 24 months | Quarterly | Unlock for project contributors & advisors. | [czc3.zuno_guru.sol](https://solscan.io/account/BixWz3vsKcCoyi45BmYz8yyoFgCJDepxUFX249m5tiFq) | [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/f3rSPQKCwWtH4uN5qa7pMUchfi1xsijabmCJHiEbpim) |
 | **Developments** | 10% | 0% | 0 | 12 months | Monthly | Ecosystem & infrastructure development. | [dev4.zuno_guru.sol](https://solscan.io/account/6p346vqTDdFxncz2QN4cfh5MCZ93PZYz8oo1i9cQzvi3) | [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/zJ9JWUfwNVQ61QxrktYJsrx5dacP9Xv9AbWH667PKDR) |
 | **Service Providers** | 0.5% | 0% | 0 | 12 months | Monthly | Payments to auditors, legal, and services. | [sp.zuno_guru.sol](https://solscan.io/account/7u4PWjGqKzYKjPurEeTgGe9XipBaVNKp8eSqHaHfjRxu) | [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/GRwD7ssWtrXqR4c6wd57Q7Z8C3USPRH6QHSmsQMMWHGZ) |
-| **Staking Rewards** | 7% | 0% | 0 | 24 months | Monthly | Rewards for staking participants via Streamflow. | [staking_rewards.zuno_guru.sol](https://solscan.io/account/EXAMPLE_STAKE) | [Streamflow Contract](https://app.streamflow.finance/staking/solana/mainnet/DhsyDTQAhPZbUWAff92FZzUctGzWBrwzrqpvsC6ipb5c) |
+| **Staking Rewards** | 7% | 0% | 0 | 24 months | Monthly | Rewards for staking participants via Streamflow. | TBA | [Streamflow Contract](https://app.streamflow.finance/staking/solana/mainnet/DhsyDTQAhPZbUWAff92FZzUctGzWBrwzrqpvsC6ipb5c) |
+
 
 
 - 🌐 StreamFlow Contracts — [StreamFlow](https://app.streamflow.finance/project-dashboard/solana/mainnet/G1VhWSAhYXRRzokGqxs4aQ8u5DSuP69ki2bN7hnapjzZ)  
@@ -100,7 +102,8 @@ All reserves are verifiable on-chain under the SNS identity
 
 - 7% of total supply is allocated for staking rewards.  
 - Distributed linearly over 24 months via **Streamflow Finance** smart contracts.  
-- Pools will be live soon on Streamflow — links will be added post-deployment.
+- Staking is available via Streamflow:
+- https://app.streamflow.finance/staking/solana/mainnet/DhsyDTQAhPZbUWAff92FZzUctGzWBrwzrqpvsC6ipb5c
 
 ---
 
@@ -112,7 +115,7 @@ All reserves are verifiable on-chain under the SNS identity
 | Freeze Authority | Disabled ✅ |
 | Metadata | Immutable ✅ |
 | Token Source | Public on GitHub ✅ |
-| Audit  |  [QuillAudit](https://github.com/Quillhash/QuillAudit_Reports/blob/25009b67dc5425f0c2fe9e1163ee64f7f6a96f5f/Zuno%20SPL%20Token%20Audit%20report%20-%20QuillAudits.pdf) ✅ |
+| Audit  |  [QuillAudits](https://github.com/Quillhash/QuillAudit_Reports/blob/25009b67dc5425f0c2fe9e1163ee64f7f6a96f5f/Zuno%20SPL%20Token%20Audit%20report%20-%20QuillAudits.pdf) ✅ · [Cyberscope](https://www.cyberscope.io/audits/zuno) ✅ |
 | SNS | [zuno_guru.sol](https://www.sns.id/domain/zuno_guru) |
 | Website | [https://zuno.guru](https://zuno.guru) |
 | Domain Verification | [Owner](https://zuno.guru/.well-known/solana/domain.json) |
