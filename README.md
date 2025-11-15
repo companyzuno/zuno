@@ -24,7 +24,8 @@ It’s a meme token — but one with full transparency, fixed supply, and verifi
   - **Report (PDF):** https://github.com/companyzuno/zuno/blob/main/QuillAudits.pdf  
   - **Mirror (GitHub):** https://github.com/Quillhash/QuillAudit_Reports/blob/25009b67dc5425f0c2fe9e1163ee64f7f6a96f5f/Zuno%20SPL%20Token%20Audit%20report%20-%20QuillAudits.pdf  
 
-- **Auditor #2:** Cyberscope  
+- **Auditor #2:** Cyberscope
+  - **Date:** 2025-11-15 
   - **Audit Page:** https://www.cyberscope.io/audits/zuno  
   - **CMC Security Badge:** https://coinmarketcap.com/currencies/official-zuno/
 
