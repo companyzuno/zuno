@@ -38,9 +38,12 @@ It’s a meme token — but one with full transparency, fixed supply, and verifi
 | **Metadata** | 🔒 Immutable |
 | **SNS ID** | [zuno_guru.sol](https://www.sns.id/domain/zuno_guru) |
 | **Website** | [https://zuno.guru](https://zuno.guru) |
+
+
 ---
 
 ## 🔐 Solana Domain Verification
+
 The ownership of the domain zuno.guru has been cryptographically verified using a signed message.
 
 Verification file:
@@ -48,6 +51,8 @@ https://zuno.guru/.well-known/solana/domain.json
 
 Verified owner:
 6p346vqTDdFxncz2QN4cfh5MCZ93PZYz8oo1i9cQzvi3
+
+
 ---
 
 ## 📊 Token Allocation & Distribution
@@ -110,6 +115,7 @@ All reserves are verifiable on-chain under the SNS identity
 | Audit  |  [QuillAudit](https://github.com/Quillhash/QuillAudit_Reports/blob/25009b67dc5425f0c2fe9e1163ee64f7f6a96f5f/Zuno%20SPL%20Token%20Audit%20report%20-%20QuillAudits.pdf) ✅ |
 | SNS | [zuno_guru.sol](https://www.sns.id/domain/zuno_guru) |
 | Website | [https://zuno.guru](https://zuno.guru) |
+| Domain Verification | [Owner](https://zuno.guru/.well-known/solana/domain.json) |
 
 ---
 
@@ -124,6 +130,7 @@ All reserves are verifiable on-chain under the SNS identity
 - 💧 Jupiter Swap — [Official ZUNO Swap_Page](https://jup.ag/swap?sell=So11111111111111111111111111111111111111112&buy=G1VhWSAhYXRRzokGqxs4aQ8u5DSuP69ki2bN7hnapjzZ)
 - 📈 CoinMarketCap — [Official CMC_Page](https://coinmarketcap.com/currencies/official-zuno/)
 - 🦎 CoinGecko — [Official CG_Page](https://www.coingecko.com/en/coins/official-zuno)
+- 🔐 Solana Domain Verification — [Official Owner Signature_Page](https://zuno.guru/.well-known/solana/domain.json)
 
 ---
 
