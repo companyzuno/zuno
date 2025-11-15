@@ -40,6 +40,16 @@ It’s a meme token — but one with full transparency, fixed supply, and verifi
 | **Website** | [https://zuno.guru](https://zuno.guru) |
 ---
 
+## 🔐 Solana Domain Verification
+The ownership of the domain zuno.guru has been cryptographically verified using a signed message.
+
+Verification file:
+https://zuno.guru/.well-known/solana/domain.json
+
+Verified owner:
+6p346vqTDdFxncz2QN4cfh5MCZ93PZYz8oo1i9cQzvi3
+---
+
 ## 📊 Token Allocation & Distribution
 
 | Section | % of Total Supply | % Unlock at TGE | Cliff | Unlock Duration | Frequency | Notes | SNS | Vesting Contract |
